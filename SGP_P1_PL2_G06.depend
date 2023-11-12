@@ -1,0 +1,870 @@
+# depslib dependency file v1.0
+1669926284 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes\menus.c
+	"..\headers\menus.h"
+
+1669926209 c:\users\pedro\desktop\sgp_p1_pl2_g06\headers\menus.h
+
+1673126960 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_ficheiros.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_avarias.h"
+	"menus.h"
+
+1673126168 c:\users\pedro\desktop\sgp_p1_pl2_g06\menus.h
+	"estruturas.h"
+
+1673202939 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+
+1673117454 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1673117454 c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1673205011 c:\users\pedro\desktop\sgp_p1_pl2_g06\constantes.h
+
+1673137848 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1673024624 c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_requisicoes.h"
+
+1670000412 source:d:\arquivo\eng-i\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1670000412 d:\arquivo\eng-i\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+
+1669982915 d:\arquivo\eng-i\sgp_p1_pl2_g06\constantes.h
+
+1670001250 source:d:\arquivo\eng-i\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"constantes.h"
+
+1670000895 d:\arquivo\eng-i\sgp_p1_pl2_g06\funcoes_portateis.h
+	"constantes.h"
+	"funcoes_auxiliares.h"
+
+1669995802 source:d:\arquivo\eng-i\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+
+1669984389 d:\arquivo\eng-i\sgp_p1_pl2_g06\menus.h
+
+1670000919 source:d:\arquivo\eng-i\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+
+1670117812 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1670107154 c:\users\pedro\desktop\sgp_p1_pl2_g06_\funcoes_auxiliares.h
+	"constantes.h"
+
+1670109732 c:\users\pedro\desktop\sgp_p1_pl2_g06_\constantes.h
+
+1670117750 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"constantes.h"
+
+1670117012 c:\users\pedro\desktop\sgp_p1_pl2_g06_\funcoes_portateis.h
+	"constantes.h"
+	"funcoes_auxiliares.h"
+
+1670104288 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+
+1669984389 c:\users\pedro\desktop\sgp_p1_pl2_g06_\menus.h
+
+1670115254 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+
+1670270039 source:c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1670268880 c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+
+1670196692 c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\constantes.h
+
+1670269612 source:c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1670179264 c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\menus.h
+
+1670270174 c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_auxiliares.h"
+
+1670196589 source:c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+
+1670270494 source:c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+
+1670195740 source:c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1670177261 c:\users\pedro barbeiro\desktop\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"constantes.h"
+
+1673126475 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1673024623 c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"funcoes_auxiliares.h"
+
+1670322720 source:c:\_trabalhos\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+
+1670322720 c:\_trabalhos\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_auxiliares.h"
+
+1670322720 c:\_trabalhos\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+
+1670322720 c:\_trabalhos\sgp_p1_pl2_g06\constantes.h
+
+1670326731 source:c:\_trabalhos\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1670322720 c:\_trabalhos\sgp_p1_pl2_g06\menus.h
+
+1670322720 c:\_trabalhos\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"constantes.h"
+
+1670322720 source:c:\_trabalhos\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+
+1670330617 source:c:\_trabalhos\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1670322720 source:c:\_trabalhos\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1671810989 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1671819198 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1671808151 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\constantes.h
+
+1672220082 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1672226087 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_requisoes.h"
+
+1672219393 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"funcoes_auxiliares.h"
+
+1672220123 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_ficheiros.h"
+	"funcoes_portateis.h"
+	"funcoes_requisoes.h"
+	"funcoes_avarias.h"
+	"menus.h"
+
+1671823320 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\menus.h
+	"estruturas.h"
+
+1672226075 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"funcoes_requisoes.h"
+	"funcoes_auxiliares.h"
+
+1672155656 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+
+1671057784 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1670944609 c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+
+1670322720 c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\constantes.h
+
+1671057577 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1670945370 c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\menus.h
+	"funcoes_portateis.h"
+
+1670943429 c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_auxiliares.h"
+
+1670940870 c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"constantes.h"
+
+1670945706 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+
+1670949447 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1671057577 source:c:\users\pedro\desktop\sgp_p1_pl2_g06_20221213\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+
+1671057784 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1670944609 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+
+1670322720 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\constantes.h
+
+1670949447 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1671205892 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_auxiliares.h"
+
+1670940870 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"constantes.h"
+
+1671205892 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+
+1671209942 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+
+1671204869 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\menus.h
+	"funcoes_portateis.h"
+
+1671202674 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_estatisticas.c
+	"funcoes_estatisticas.h"
+
+1671058897 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_estatisticas.h
+
+1671209311 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"funcoes_requisoes.h"
+	"constantes.h"
+
+1671209224 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_requisoes.h
+	"constantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_portateis.h"
+
+1671209912 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_14-12_2022\sgp_p1_pl2_g06\funcoes_requisoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_requisoes.h"
+	"funcoes_portateis.h"
+
+1672412366 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1672411945 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1672427985 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\constantes.h
+
+1672411547 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+
+1672411355 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_estatisticas.h
+	"funcoes_requisicoes.h"
+
+1672413663 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1672412571 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_requisicoes.h"
+
+1672412571 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"funcoes_auxiliares.h"
+
+1672428533 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1672427589 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_ficheiros.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_avarias.h"
+	"menus.h"
+
+1672413440 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\menus.h
+	"estruturas.h"
+
+1672179181 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_requisoes.h
+	"estruturas.h"
+
+1672427331 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+
+1672263323 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_requisoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1671805509 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\sgp_estruturas.h
+	"constantes.h"
+
+1672859396 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\estruturas.h
+	"constantes.h"
+
+1672857551 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_avarias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoes_avarias.h"
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+
+1672418362 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_avarias.h
+	"estruturas.h"
+
+1672225943 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\estruturas.h
+	"constantes.h"
+
+1672226102 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_avarias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoes_avarias.h"
+	"funcoes_auxiliares.h"
+	"funcoes_requisoes.h"
+	"funcoes_portateis.h"
+
+1672185750 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_avarias.h
+	"estruturas.h"
+
+1671807225 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+	"funcoes_requisoes.h"
+
+1671805320 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_estatisticas.h
+	"funcoes_requisoes.h"
+
+1672179181 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_requisoes.h
+	"estruturas.h"
+
+1672226075 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06\funcoes_requisoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1671810989 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1671819198 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1671808151 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\constantes.h
+
+1672246953 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\estruturas.h
+	"constantes.h"
+
+1672226102 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_avarias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoes_avarias.h"
+	"funcoes_auxiliares.h"
+	"funcoes_requisoes.h"
+	"funcoes_portateis.h"
+
+1672185750 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_avarias.h
+	"estruturas.h"
+
+1672179181 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_requisoes.h
+	"estruturas.h"
+
+1672226087 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_portateis.h
+	"funcoes_requisoes.h"
+
+1672220082 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1672219393 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_ficheiros.h
+	"funcoes_auxiliares.h"
+
+1672226075 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"funcoes_requisoes.h"
+	"funcoes_auxiliares.h"
+
+1672155656 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+
+1671823320 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\menus.h
+	"estruturas.h"
+
+1671805320 c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_estatisticas.h
+	"funcoes_requisoes.h"
+
+1672246953 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+	"funcoes_requisoes.h"
+
+1672245631 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\funcoes_requisoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1672245630 source:c:\users\3dtcad06\downloads\sgp_p1_pl2_g06_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_ficheiros.h"
+	"funcoes_portateis.h"
+	"funcoes_requisoes.h"
+	"funcoes_avarias.h"
+	"menus.h"
+
+1672867512 c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_requisicoes.h
+	"estruturas.h"
+
+1672867588 source:c:\users\pedro\desktop\projeto_programacaoi\sgp_p1_pl2_g06\funcoes_requisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1672915290 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1672911531 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1672915133 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\constantes.h
+
+1673016068 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\estruturas.h
+	"constantes.h"
+
+1672911360 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_avarias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoes_avarias.h"
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+
+1672910928 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_avarias.h
+	"estruturas.h"
+
+1672908911 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_requisicoes.h
+	"estruturas.h"
+
+1672907640 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_portateis.h
+	"funcoes_requisicoes.h"
+
+1672939311 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1672934225 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_estatisticas.h
+	"funcoes_requisicoes.h"
+
+1672909293 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1672907640 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_ficheiros.h
+	"funcoes_auxiliares.h"
+
+1673017559 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1672938977 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\funcoes_requisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1673023942 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_ficheiros.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_avarias.h"
+	"menus.h"
+
+1673023942 c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\menus.h
+	"estruturas.h"
+
+1673023942 source:c:\users\3dtcad06\desktop\sgp_p1_pl2_g06\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+
+1673199357 c:\users\pedro\desktop\sgp_p1_pl2_g06\estruturas.h
+	"constantes.h"
+
+1673199604 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_avarias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoes_avarias.h"
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+
+1673024621 c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_avarias.h
+	"estruturas.h"
+
+1673204398 c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_requisicoes.h
+	"estruturas.h"
+
+1673024622 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1673024622 c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_estatisticas.h
+	"funcoes_requisicoes.h"
+
+1673127381 source:c:\users\pedro\desktop\sgp_p1_pl2_g06\funcoes_requisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1673255269 source:c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funcoes_auxiliares.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1673353542 c:\_trabalhos\sgp_p1_pl2_g06-final\constantes.h
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\estruturas.h
+	"constantes.h"
+
+1673257350 source:c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_avarias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoes_avarias.h"
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_avarias.h
+	"estruturas.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_requisicoes.h
+	"estruturas.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_portateis.h
+	"funcoes_requisicoes.h"
+
+1673255919 source:c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_estatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_estatisticas.h
+	"funcoes_requisicoes.h"
+
+1673255796 source:c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_ficheiros.h
+	"funcoes_auxiliares.h"
+
+1673256009 source:c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_portateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_auxiliares.h"
+
+1673257481 source:c:\_trabalhos\sgp_p1_pl2_g06-final\funcoes_requisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_requisicoes.h"
+	"funcoes_portateis.h"
+	"funcoes_ficheiros.h"
+	"constantes.h"
+
+1673255269 source:c:\_trabalhos\sgp_p1_pl2_g06-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_ficheiros.h"
+	"funcoes_portateis.h"
+	"funcoes_requisicoes.h"
+	"funcoes_avarias.h"
+	"menus.h"
+
+1673255269 c:\_trabalhos\sgp_p1_pl2_g06-final\menus.h
+	"estruturas.h"
+
+1673255269 source:c:\_trabalhos\sgp_p1_pl2_g06-final\menus.c
+	<stdio.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estatisticas.h"
+	"funcoes_portateis.h"
+
